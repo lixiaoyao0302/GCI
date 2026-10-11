@@ -1,0 +1,10 @@
+/build*/
+/results/
+/data/
+/examples/synthetic/
+__pycache__/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.zip
